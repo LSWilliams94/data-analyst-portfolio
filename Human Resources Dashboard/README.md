@@ -101,10 +101,3 @@ Once the data was cleaned and normalised, I created several visualisations in Po
 1. **Clone this repository** to get access to the Power BI file and cleaned dataset.
 2. Open the Power BI file (`human_resources.pbix`) in Power BI Desktop.
 3. **Explore the interactive dashboards** and visualisations for insights on employee retention, compensation, satisfaction, and more.
-
----
-
-## Licence
-
-This project is licensed under the MIT Licence - see the [LICENSE.md](LICENSE.md) file for details.
-
