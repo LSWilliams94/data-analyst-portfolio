@@ -68,7 +68,7 @@ The dataset was cleaned and transformed using **Power Query** in Power BI. Below
 
 ### 4. **Standardised Column Headers**
 
-- **Action**: Some column headers had '_' for a space and others had no space. I added '_' to represent spaces for all headers and changed to lowercase for easier to write DAX measures.
+- **Action**: Some column headers had _ for a space and others had no space. I added _ to represent spaces for all headers and changed to lowercase for easier to write DAX measures.
 
 ### 5. **Normalisation (Star Schema)**
 
