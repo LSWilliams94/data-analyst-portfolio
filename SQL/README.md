@@ -42,7 +42,7 @@ Solution: I created a staging table with all fields as VARCHAR(255) to handle th
 - The average gap between a customer’s first and last purchase is 425 days.
 - Retention rates fluctuate from 20% (2016) to 4% (2020), showing room for growth.
 #### Spending Patterns:
-- 65+ age group contributes the highest revenue.
+- 65+ age group contributes the highest revenue however this is because they have the most unique customers. Looking at revenue per age group, each age group is roughly the same revenue.
 - Male and female customers spend equally on average.
 ### Product Insights:
 #### Product Mix: 
