@@ -70,7 +70,7 @@ Solution: I created a staging table with all fields as VARCHAR(255) to handle th
 - Average delivery time: 4 days (consistent across countries).
 -Sales Trends: First 30 days of store openings show interesting patterns worth deeper analysis to compare launch sales vs. long-term trends.
 
-## Business Recommedations
+## Business Recommendations
 - Analyse first 30 day sales further to identify if stores benefit from an initial sales spikes. Use this data to design grand opening events or new launch campaigns.
 - Invest in marketing and operating support for top performing stores.
 - Research further on industry online delivery times, whilst 4 days is good, can it be improved?
