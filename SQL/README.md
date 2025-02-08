@@ -20,6 +20,7 @@ The dataset includes the following tables:
 ### Challenges Encountered
 
 Unicode and Conversion Issues: While importing the CSV using the "Import Data" feature, I faced unicode and data conversion errors.
+
 Solution: I created a staging table with all fields as VARCHAR(255) to handle the initial data load. Afterward, I converted data types appropriately before loading it into the target tables and proceeded with normalisation.
 
 ## Key SQL Queries
@@ -68,3 +69,14 @@ Solution: I created a staging table with all fields as VARCHAR(255) to handle th
 #### Logistics: 
 - Average delivery time: 4 days (consistent across countries).
 -Sales Trends: First 30 days of store openings show interesting patterns worth deeper analysis to compare launch sales vs. long-term trends.
+
+## Business Recommedations
+- Analyse first 30 day sales further to identify if stores benefit from an initial sales spikes. Use this data to design grand opening events or new launch campaigns.
+- Invest in marketing and operating support for top performing stores.
+- Research further on industry online delivery times, whilst 4 days is good, can it be improved?
+- Create customer feedback surveys around online experience to check for any pain points.
+- Use customer data to deliver online tailored product recommendations and dynamic pricing offers.
+- Allocate more budget to autumn and winter seasons due to strong performance. Limited time offers / holiday promotions.
+- Optimise stock allocation levels to prevent stockouts and improve customer satisfaction.
+- Loyalty promotions for repeat customers.
+- Target customers with dormant accounts (no purchases within last 12 months).
